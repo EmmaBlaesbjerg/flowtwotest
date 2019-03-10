@@ -1,0 +1,25 @@
+/* CSS Document */
+/*
+ Theme Name:   Minimal Lite Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Minimal Lite Child Theme
+ Author:       Emma 
+ Author URI:   http://example.com
+ Template:     minimal-lite
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  minimal-childtheme
+
+*/
+@import url("../minimal-lite/style.css");
+
+body {
+    margin: 5%;
+}
+
+.post-thumb { text-align: center; }
+.post-thumb  img {
+    width: 300px !important;
+}
